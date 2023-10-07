@@ -17,6 +17,6 @@
   <img src="https://img.shields.io/badge/Git-%23339933.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </div>
 
-- 📫 How to reach me  : with my personal website https://rahelerahimi.ir/ or instagram _rahele_rahimi and linkedin rahelerahimi
+
 
 
