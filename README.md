@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Next.js-%230070C0.svg?style=for-the-badge&logo=nextjs&logoColor=white" alt="Next.js">
 </div>
 
-<div class="flex flex-wrap">
+<div class="flex flex-wrap ">
   <img src="https://img.shields.io/badge/Redux-%2320232A.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
   <img src="https://img.shields.io/badge/REST_API-%23339933.svg?style=for-the-badge&logo=rest&logoColor=white" alt="REST API">
   <img src="https://img.shields.io/badge/Tailwind_CSS-%230070C0.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
