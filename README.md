@@ -1,4 +1,4 @@
-<h2 >I am web developer </h2>
+<h2 style="color: blue;">I am web developer</h2>
 <div class="flex flex-wrap">
 <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-%230070C0.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Next.js-%230070C0.svg?style=for-the-badge&logo=nextjs&logoColor=white" alt="Next.js">
 </div>
 
-<div class="flex flex-wrap ">
+<div class="flex flex-wrap mt-10">
   <img src="https://img.shields.io/badge/Redux-%2320232A.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
   <img src="https://img.shields.io/badge/REST_API-%23339933.svg?style=for-the-badge&logo=rest&logoColor=white" alt="REST API">
   <img src="https://img.shields.io/badge/Tailwind_CSS-%230070C0.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
